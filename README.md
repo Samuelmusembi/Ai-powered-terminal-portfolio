@@ -91,7 +91,7 @@ npx http-server
 - Safari
 - Edge
 
-## Performance
+## Performance 
 
 - Lightweight vanilla JavaScript implementation
 - No external dependencies except Google Fonts

@@ -1,4 +1,3 @@
-@@ -1,105 +1,103 @@
 # Samuel Musembi - Interactive Terminal Portfolio
 
 A clone of the interactive terminal-style portfolio website from https://gateremark.me/

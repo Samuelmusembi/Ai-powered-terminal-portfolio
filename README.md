@@ -19,7 +19,7 @@ This project recreates an interactive "AI powered" portfolio terminal interface 
 
 ## Technologies Used
 
-- **HTML5**: Semantic structure and accessibility
+- **HTML**: Semantic structure and accessibility
 - **CSS3**: Modern styling with 3D transforms and animations
 - **JavaScript**: Interactive functionality and command processing
 - **Google Fonts**: JetBrains Mono for authentic terminal typography
